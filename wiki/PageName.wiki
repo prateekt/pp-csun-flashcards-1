@@ -4,6 +4,7 @@ Useful links
 
 http://www.slideshare.net/ginader/accessible-javascript-with-and-without-wai-aria
 
+http://www.w3.org/TR/WCAG20/#intro
 
 = Details =
 
