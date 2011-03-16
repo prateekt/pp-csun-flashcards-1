@@ -1,9 +1,31 @@
+IF YOU SEE THIS, THIS DOCUMENT IS NOT COMPLETE
+
 SS12 CSUN11 Judges Read Me
 
 
 = Project Description =
 
-Flashcards are incredibly useful study aids. For persons with cognitive and/or learning disabilities flashcards are practically a necessity. Some digital flash card solutions exist, but are platform specific and have limited capabilities. A web-based flashcard solution could be accessible on multiple platforms and could support math and other complex equations. This would be quite beneficial to a person with a cognitive or learning disability. For example a user could create a set of flashcards of mathematic equations conveniently on their computer. The user can then access and edit the flash cards from their mobile device, eliminating the need for physical cards.
+Flashcards are incredibly useful study aids. For persons with cognitive 
+
+and/or learning disabilities flashcards are practically a necessity. 
+
+Some digital flash card solutions exist, but are platform specific and
+ 
+have limited capabilities. 
+
+A web-based flashcard solution could be 
+
+accessible on multiple platforms and could support math and other 
+
+complex equations. This would be quite beneficial to a person with a 
+
+cognitive or learning disability. For example a user could create a set 
+
+of flashcards of mathematic equations conveniently on their computer. 
+
+The user can then access and edit the flash cards from their mobile 
+
+device, eliminating the need for physical cards.
 
 = Project Requirements=
 
@@ -28,9 +50,28 @@ Suggested Technology
 Add your content here.
 
 
-= Details =
+= Project Accomplishments =
+*Met all Requirements:*
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+1. Create, modify, and delete flashcards
+
+2. Edit front and back of flashcards
+
+3. Support standard text and math equations
+
+4. Make as web app that is compatible with mobile devices
+
+5. Be accessible to assistive technology
+
+6 .Text to Speech for text
+
+
+*Beyond Requirements:*
+
+7. Mathematical equations to speech
+
+8. Created Android Application to interface with website, designed 
+   WAI in mind, but setting our own standards for accessibility
+  Website accessible to the blind including math equations
+
+= Project Accomplishments =
