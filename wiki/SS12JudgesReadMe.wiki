@@ -156,7 +156,7 @@ dealing with the front end
 
 Note: This is not the final documentation.
 
-[http://www.calqlus.org/Accessible_Flash_Cards_Flow.jpg]
+[http://www.calqlus.org/High-Level-View-Flash-Cards-Project]
 
 
 [http://www.calqlus.org/High_level_Mathematical_Representation_Flow.jpg]
