@@ -156,7 +156,7 @@ A high level flow can be found here:
 
 Note: This is not the final documentation.
 
-http://www.calqlus.orgAccessible_Flash_Cards_Flow.jpg
+http://www.calqlus.org/Accessible_Flash_Cards_Flow.jpg
 
 Thank you for looking, if you have ANY questions please feel free to 
 
@@ -165,4 +165,3 @@ contact us.
 Our emails can be found under Project Home:
 
 http://code.google.com/p/pp-csun-flashcards-1/
-
