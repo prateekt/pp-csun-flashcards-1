@@ -1,6 +1,3 @@
-IF YOU SEE THIS, THIS DOCUMENT IS NOT COMPLETE
-
-SS12 CSUN11 Judges Read Me
 = Document Purpose =
 This is an Unofficial introduction to the Accessible Flashcards
 
@@ -115,3 +112,54 @@ LaTeX
 Mimetex - A LaTeX to Image Converter
 
 Web Content Accessibility (WCA)
+
+= Project Subversion Information =
+
+*Svn Repository Link:*
+
+http://pp-csun-flashcards-1.googlecode.com/svn/trunk/ pp-csun-flashcards-1-read-only
+
+*Google SVN repository Link:*
+
+http://code.google.com/p/pp-csun-flashcards-1/source/browse/
+
+*Projects:*
+Title:
+Android
+
+Description:
+Source files for our Android application that interface 
+with our website.
+
+Title:
+Server
+
+Description:
+Server are server side code strictly dealing with maintaining 
+the projects database.
+
+Title:
+Web
+
+Description:
+Front end code
+dealing with the front end 
+
+A high level flow can be found here:
+
+Note: This is not the final documentation.
+
+http://www.calqlus.orgAccessible_Flash_Cards_Flow.jpg
+
+Thank you for looking, if you have ANY questions please feel free to 
+
+contact us. 
+
+Our emails can be found under Project Home:
+
+http://code.google.com/p/pp-csun-flashcards-1/
+
+
+
+
+
