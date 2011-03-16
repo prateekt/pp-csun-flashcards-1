@@ -1,6 +1,31 @@
 IF YOU SEE THIS, THIS DOCUMENT IS NOT COMPLETE
 
 SS12 CSUN11 Judges Read Me
+= Document Purpose =
+This is an Unofficial introduction to the Accessible Flashcards
+
+project by team CSUN. The purpose of this document is to give a 
+
+brief introduction and overview of our project submission to
+
+SS12. In this document you will find the description, requirements,
+
+accomplishments, technologies used, and a high level mapping of the
+
+source files checked into SVN. This is an attempt to help judges
+
+understand our project and to provide a simplified overview of the
+
+source files checked into SVN.
+
+*This document does not contain official project documentation nor*
+
+*future project maintainability plans. Explanation of components and*
+
+*innovative ideas are also not explained. All of this will be covered*
+
+*and presented at the SS12 Finals.*
+
 
 
 = Project Description =
@@ -74,4 +99,19 @@ Add your content here.
    WAI in mind, but setting our own standards for accessibility
   Website accessible to the blind including math equations
 
-= Project Accomplishments =
+= Technologies & Principles used =
+*All technologies are open source*
+
+Festival Speech Synthesis System 
+
+FreeBSD, Ubuntu, PHP, Apache, MySQL
+
+Android SDK, Java
+
+Subversion
+
+LaTeX
+
+Mimetex - A LaTeX to Image Converter
+
+Web Content Accessibility (WCA)
