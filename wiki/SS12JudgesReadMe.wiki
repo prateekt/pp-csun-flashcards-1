@@ -124,24 +124,31 @@ http://pp-csun-flashcards-1.googlecode.com/svn/trunk/pp-csun-flashcards-1-read-o
 http://code.google.com/p/pp-csun-flashcards-1/source/browse/
 
 *Projects:*
-Title:
+
+*Title:*
+
 Android
 
-Description:
+*Description:*
+
 Source files for our Android application that interface 
 with our website.
 
-Title:
+*Title:*
+
 Server
 
-Description:
+*Description:*
+
 Server are server side code strictly dealing with maintaining 
 the projects database.
 
-Title:
+*Title:*
+
 Web
 
-Description:
+*Description:*
+
 Front end code
 dealing with the front end 
 
@@ -158,6 +165,4 @@ contact us.
 Our emails can be found under Project Home:
 
 http://code.google.com/p/pp-csun-flashcards-1/
-
-
 
