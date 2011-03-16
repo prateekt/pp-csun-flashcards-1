@@ -117,7 +117,7 @@ Web Content Accessibility (WCA)
 
 *Svn Repository Link:*
 
-http://pp-csun-flashcards-1.googlecode.com/svn/trunk/ pp-csun-flashcards-1-read-only
+http://pp-csun-flashcards-1.googlecode.com/svn/trunk/pp-csun-flashcards-1-read-only
 
 *Google SVN repository Link:*
 
@@ -158,8 +158,6 @@ contact us.
 Our emails can be found under Project Home:
 
 http://code.google.com/p/pp-csun-flashcards-1/
-
-
 
 
 
