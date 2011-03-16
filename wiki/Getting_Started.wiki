@@ -18,7 +18,7 @@ This project can be broken up into 3 different components:
 
 *Component Requirements*
 
-*1.accesFlashCards*
+*1. accesFlashCards*
 
 Festival Speech Synthesis (TTS)
 
@@ -30,17 +30,16 @@ LaTeX
 
 Mimetex
 
-*2.latex2imglatex2eng*
+*2. latex2imglatex2eng*
 
 Mimetex
 
 PHP
 
-*3.Android*
+*3. Android*
 
 For full Android Application including component #1
 
 Use requirements 1. and the following:
 
 Android SDK development environment
-
