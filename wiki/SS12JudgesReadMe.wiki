@@ -156,10 +156,10 @@ dealing with the front end
 
 Note: This is not the final documentation.
 
-http://www.calqlus.org/Accessible_Flash_Cards_Flow.jpg
+[http://www.calqlus.org/Accessible_Flash_Cards_Flow.jpg]
 
 
-http://www.calqlus.org/High_level_Mathematical_Representation_Flow.jpg
+[http://www.calqlus.org/High_level_Mathematical_Representation_Flow.jpg]
 
 *Contact:*
 Thank you for looking, if you have ANY questions please feel free to 
