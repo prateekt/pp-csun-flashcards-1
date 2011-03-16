@@ -20,24 +20,24 @@ This project can be broken up into 3 different components:
 
 *1. accesFlashCards*
 
-Festival Speech Synthesis (TTS) Or Google Text To Speech
+    Festival Speech Synthesis (TTS) Or Google Text To Speech
 
-FreeBSD, Ubuntu Server, PHP, Apache, MySQL
+    FreeBSD, Ubuntu Server, PHP, Apache, MySQL
 
-LaTeX
+    LaTeX
 
-Mimetex
+    Mimetex
 
 *2. latex2imglatex2eng*
 
-Mimetex
+    Mimetex
 
-PHP
+    PHP
 
 *3. Android*
 
-For full Android Application including component #1
+    For full Android Application including component accesFlashCards
 
-Use requirements 1. and the following:
+    Use requirements 1. and the following:
 
-Android SDK development environment
+    Android SDK development environment
