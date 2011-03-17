@@ -69,8 +69,6 @@ Suggested Technology
 
 2. CSS
 
-Add your content here.
-
 
 = Project Accomplishments =
 *Met all Requirements:*
